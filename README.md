@@ -16,3 +16,6 @@ I'm an aspiring Data Engineer with a passion for building scalable data pipeline
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud Platforms**: Azure, GCP
 - **Tools**: Git, Docker, Kubernetes
+
+!Your Devcoding17 Stats
+!Top Languages

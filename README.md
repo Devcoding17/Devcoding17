@@ -20,5 +20,5 @@ I'm an aspiring Data Engineer with a passion for building scalable data pipeline
 !Your Devcoding17 Stats
 !Top Languages
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devcoding17)](https://github.com/anuraghazra/github-readme-stats)
+#[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devcoding17)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Devcoding17/github-readme-stats)

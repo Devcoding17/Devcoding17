@@ -36,4 +36,4 @@ I'm an aspiring Data Engineer with a passion for building scalable data pipeline
 
 
 [![](https://visitcount.itsvg.in/api?id=Devcoding17&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
- [![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)]
+ ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
